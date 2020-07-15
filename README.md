@@ -10,3 +10,4 @@ $ cd hammer
 $ ls
 $ chmod +× hammer.py
 $ python3 hammer.py -s(ServerIP) -p(server Port -t (Attack Speed)
+I korea ^^
